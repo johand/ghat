@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/johand/ghat/compare/v2.1.0...v2.2.0) (2024-09-18)
+
+
+### Features
+
+* redis ([51474cf](https://github.com/johand/ghat/commit/51474cfd6670ab70b54ad169bd51272ca5f45113))
+
 ## [2.1.0](https://github.com/johand/ghat/compare/v2.0.0...v2.1.0) (2024-09-18)
 
 
