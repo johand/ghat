@@ -27,6 +27,7 @@ gem "bootsnap", require: false
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin Ajax possible
 gem "rack-cors"
+gem "simplecov", "~> 0.22.0", require: false, group: :test
 
 group :development, :test do
   gem "dotenv"
