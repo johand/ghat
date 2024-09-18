@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/johand/ghat/compare/v2.0.0...v2.1.0) (2024-09-18)
+
+
+### Features
+
+* cors ([cd77f74](https://github.com/johand/ghat/commit/cd77f747e6d1eedde3c40346cb047044bc5f6683))
+
 ## [2.0.0](https://github.com/johand/ghat/compare/v1.0.1...v2.0.0) (2024-09-18)
 
 
