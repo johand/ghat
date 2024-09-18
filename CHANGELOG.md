@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/johand/ghat/compare/v1.0.1...v2.0.0) (2024-09-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* dotenv
+
+### Features
+
+* dotenv ([af16a33](https://github.com/johand/ghat/commit/af16a33c2c58b98497a40b7d3f201614f9a948cc))
+
 ## [1.0.1](https://github.com/johand/ghat/compare/v1.0.0...v1.0.1) (2024-09-18)
 
 
