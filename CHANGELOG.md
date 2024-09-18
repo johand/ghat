@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/johand/ghat/compare/v2.2.0...v2.2.1) (2024-09-18)
+
+
+### Bug Fixes
+
+* **TT-123:** simplecov ([a6a96ed](https://github.com/johand/ghat/commit/a6a96ed3e5f706407dbb037bb71acd0eedc6a931))
+
 ## [2.2.0](https://github.com/johand/ghat/compare/v2.1.0...v2.2.0) (2024-09-18)
 
 
