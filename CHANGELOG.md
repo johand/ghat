@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/johand/ghat/compare/v2.2.1...v3.0.0) (2024-09-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* comment
+
+### Features
+
+* comment ([89536e4](https://github.com/johand/ghat/commit/89536e48150b3d0c33c4853158e075588fcc6e9b))
+
 ## [2.2.1](https://github.com/johand/ghat/compare/v2.2.0...v2.2.1) (2024-09-18)
 
 
