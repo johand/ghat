@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.3.0](https://github.com/johand/ghat/compare/v3.2.0...v3.3.0) (2024-09-28)
+
+
+### Features
+
+* Gemfile ([d669846](https://github.com/johand/ghat/commit/d6698469e9d5ea064c21cdef897542fd4a65063d))
+* jobs ([a73ed67](https://github.com/johand/ghat/commit/a73ed672080ef5098afbd24259474d45915aae05))
+* model ([2459e0b](https://github.com/johand/ghat/commit/2459e0b9cdabab57f1d39c1fd9dabcc32a552b0a))
+
 ## [3.2.0](https://github.com/johand/ghat/compare/v3.1.0...v3.2.0) (2024-09-28)
 
 
