@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/johand/ghat/compare/v3.1.0...v3.2.0) (2024-09-28)
+
+
+### Features
+
+* controller ([6206ca4](https://github.com/johand/ghat/commit/6206ca45a4f068e160b9c884b62bd7d2a4a0943b))
+
 ## [3.1.0](https://github.com/johand/ghat/compare/v3.0.0...v3.1.0) (2024-09-27)
 
 
