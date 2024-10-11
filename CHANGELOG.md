@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.0](https://github.com/johand/ghat/compare/v3.3.0...v3.4.0) (2024-10-11)
+
+
+### Features
+
+* **test:** test ([2698950](https://github.com/johand/ghat/commit/26989506a8680bf27c29e96ab0b1196cf4b8864b))
+
 ## [3.3.0](https://github.com/johand/ghat/compare/v3.2.0...v3.3.0) (2024-09-28)
 
 
